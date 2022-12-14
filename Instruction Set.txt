@@ -1,0 +1,6 @@
+0000aaaadddddddd = Carrega constante dddddddd no endereço aaaa nos bits menos significativos
+0001aaaadddddddd = Carrega constante dddddddd no endereço aaaa nos bits mais significativos
+0010aaaaaaaaaaaa = Carrega dados da memória no endereço aaaaaaaaaaaa no registrador 7.
+0011aaaaaaaaaaaa = Carrega dados do registrador 7 na memória no endereço aaaaaaaaaaaa.
+1000aaaabbbbpppp = Faz a operação pppp usando o registrador aaaa e o bbbb e guarda no registrador aaaa.
+1111xxxxxxxxxxxx = No Operation
